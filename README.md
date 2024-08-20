@@ -3,7 +3,7 @@
 Currently I have two reports:
 
 1. Air Emissions, where I show:
-                                1.1. Basic visualizations such as line graphs, pie charts;
+1.1. Basic visualizations such as line graphs, pie charts;
    1.2. One correlation visualization with R;
    1.3. Basic measures with DAX.
    
