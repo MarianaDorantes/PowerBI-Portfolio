@@ -3,12 +3,11 @@
 Currently I have two reports:
 
 1. Air Emissions, where I show:
-   2.    s
-   1.1. Basic visualizations such as line graphs, pie charts;
+    1.1. Basic visualizations such as line graphs, pie charts;
    1.2. One correlation visualization with R;
    1.3. Basic measures with DAX.
    
-3. Electric Vehicles, where I show:
+5. Electric Vehicles, where I show:
    2.1. Map created with JSON;
    2.2. Use of web images.
    2.3. Advanced table features.
