@@ -27,3 +27,5 @@ Las bases de datos fueron obtenidas de fuentes abiertas:
 3. El gráfico de correlación se realizó en R, usando la librería "corrplot".
 4. Se muestra una gráfica de dispersión del crecimiento de la población y las emisiones de CO2. Los datos se agruparon en 4 categorías mediante la función **SWITCH** (DAX).
 5. Se muestra la comparación entre dos fuentes de datos, su respectiva línea de tendencia y proyecciones a futuro.
+
+   ![Global emissions](Mexico_emissions.png)
