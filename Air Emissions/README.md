@@ -17,7 +17,7 @@ Las bases de datos fueron obtenidas de fuentes abiertas:
 5. Se muestra el top 5 de los países con mayor emisión de gases de efecto invernadero y su total.
 6. Se muestra un mapa de calor donde la concentración se indica mediante un tono de rojo más intenso.
 
-   ![Global emissions]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://github.com/MarianaDorantes/PowerBI-Portfolio/blob/main/Air%20Emissions/Global%20emissions.png))
+   ![Global emissions]([Global_emissions.png)
 
 
 #### Página 2: Emisiones de México
