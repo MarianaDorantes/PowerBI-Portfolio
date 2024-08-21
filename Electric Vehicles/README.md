@@ -8,7 +8,7 @@ Global sales data was obtained from Kaggle: https://www.kaggle.com/datasets/edso
 
 Data on car brands, models, and specifications was obtained from Kaggle: https://www.kaggle.com/datasets/kkhandekar/cheapest-electric-cars.
 
-Creation procedure: To build this report, the following steps were performed: 
+Creation procedure: To build this report, the following steps were followed: 
 
 ##### General: 
 1. Data cleaning and transformation: Rename columns, split columns, replace values, remove duplicates, remove unnecessary columns, and sort rows.
