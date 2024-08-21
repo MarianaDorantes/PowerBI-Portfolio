@@ -28,6 +28,6 @@ Creation procedure: To build this report, the following steps were performed:
 
 ![Model](Model.png)
 
-#### Vista del reporte:
+#### Report view:
 
 ![Report](EV.png)
