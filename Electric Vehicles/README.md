@@ -3,7 +3,9 @@
 #### Overview
 
 This report shows general data on electric car sales globally (from 2010 to 2023) and by car brand available in Europe.
-Global sales data was obtained from Kaggle: https://www.kaggle.com/datasets/edsonmarin/historic-sales-of-electric-vehicles Data on car brands, models, and specifications was obtained from https://www.kaggle.com/datasets/kkhandekar/cheapest-electric-cars.
+
+Global sales data was obtained from Kaggle: https://www.kaggle.com/datasets/edsonmarin/historic-sales-of-electric-vehicles 
+Data on car brands, models, and specifications was obtained from https://www.kaggle.com/datasets/kkhandekar/cheapest-electric-cars.
 
 Creation procedure: To build this report, the following steps were performed: 
 
